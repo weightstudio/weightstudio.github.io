@@ -173,3 +173,4 @@ sharethrough.com, XeKuhSkz, RESELLER, d53b998a7bd4ecd2
 pubwise.io, 22376824, RESELLER, c327c91a93a7cdd3
 xapads.com, 117219, RESELLER
 lijit.com, 546566, RESELLER, fafdf38b16bf6b2b
+improvedigital.com, 1664, RESELLER
