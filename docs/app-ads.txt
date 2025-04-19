@@ -1,5 +1,5 @@
 google.com, pub-5576470284985485, DIRECT, f08c47fec0942fa0
-facebook.com, 462896172727104, DIRECT, c3e20eee3f780d68
+facebook.com, 543896971574456, DIRECT, f08c47fec0942fa0
 pubnative.net, 1008379, reseller, d641df8625486a7b
 pubnative.net, 1007040, reseller, d641df8625486a7b
 pubnative.net, 1009966, reseller, d641df8625486a7b
