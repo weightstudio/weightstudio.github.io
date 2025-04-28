@@ -233,3 +233,6 @@ appnexus.com, 12878, reseller, f5ab79cb980f11d1
 start.io, 116712987, reseller
 tradplusad.com, b3fca24bd11c1242, reseller
 verve.com, 15503, reseller, 0c8f5958fc2d6270
+sharethrough.com, sniqcomc, RESELLER, d53b998a7bd4ecd2
+sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
+smartadserver.com, 5294, RESELLER, 060d053dcf45cbf3
