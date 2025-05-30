@@ -295,3 +295,6 @@ videoheroes.tv, 212450, RESELLER, 064bc410192443d8
 appnexus.com, 1354, RESELLER
 ushareit.com, LCb555b3bc8667a09a, RESELLER
 xandr.com, 13293, RESELLER, f5ab79cb980f11d1
+lijit.com, 556191, RESELLER, fafdf38b16bf6b2b
+advertising.com, 82632, RESELLER
+taurusx.com, 80635, RESELLER
