@@ -309,3 +309,4 @@ improvedigital.com, 2534, RESELLER
 pubmatic.com, 164798, RESELLER, 5d62403b186f2ace
 bidmachine.io, 113, RESELLER
 zmaticoo.com, 5135063, RESELLER
+improvedigital.com, 2609, RESELLER
