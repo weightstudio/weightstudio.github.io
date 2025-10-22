@@ -1,6 +1,0 @@
-title: "My Website"
-description: "My amazing website powered by Jekyll"
-url: "https://stockcoding.github.io"
-baseurl: ""   # 這可以是空字符串，如果網站位於根目錄
-theme: "jekyll-theme-primer"
-markdown: kramdown
